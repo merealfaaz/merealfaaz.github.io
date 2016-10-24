@@ -15,8 +15,8 @@ animated_fins:    true
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 
-baseurl: "" 
-url: ""          
+url: ""
+baseurl: ""           
 
 # Gems used
 gems:
