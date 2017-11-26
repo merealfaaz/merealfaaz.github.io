@@ -35,7 +35,7 @@ jekyll-archives:
     - tags
   layout: 'archive'
   permalinks:
-    # year: '/:year/'
+    year: '/:year/'
     # month: '/:year/:month/'
     # day: '/:year/:month/:day/'
     tag: '/archive/tag/:name/'
